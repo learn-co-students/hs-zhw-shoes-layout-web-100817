@@ -24,4 +24,68 @@
 
 /* Posititoning Classes */
 
+h2.milk_text { /* working */
+  margin: 10px 0;
+  text-align: left;
+}
 
+.tester {
+  float: right;
+  width: 32%;
+  height: 100%;
+  margin: 0 0 0 0;
+  
+
+}
+
+.test-2 {
+  float: left;
+  width: 66%;
+  height: 100%;
+}
+
+ .test-3 {
+  float: left;
+  width: 32%;
+  clear: both;
+  margin: 2% 0 0 0;
+}
+
+.test-4 {
+  float: left;
+  width: 32%;
+  margin: 2% 0 0 2%;
+}
+
+.test-5 {
+  float: left;
+  width: 32%;
+  margin: 2% 0 0 2%;
+  
+}
+
+.details .wrapper {
+  width: 100%;
+}
+
+div.wrapper #left {
+  display: inline-block;
+  float: left;
+  width: 32%; 
+  border-right: 1px dashed lightgray;
+  text-align: left;
+}
+
+.middle {
+  float:left;
+  display: inline-block;
+  width: 32%;
+  margin: 0 0 0 2%;
+}
+
+div.social-links {
+  float: left;
+  width: 32%;
+  margin: 0 0 0 2%;
+}
+/* basic markup for initial layout styling. will finish Tuesda */
